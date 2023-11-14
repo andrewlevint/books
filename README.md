@@ -1,3 +1,3 @@
 # 📚 Books
 
-## [📕 Recent books](https://andrewlevint.github.io/books/recently/)
+## [📕 Recently read books](https://andrewlevint.github.io/books/recently/)
